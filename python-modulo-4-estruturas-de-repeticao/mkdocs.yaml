@@ -1,0 +1,13 @@
+site_name: "Python - Módulo 4: Estruturas de Repetição"
+
+theme: readthedocs
+
+nav:
+    - index.md
+    - 01_python-aula-16-estrutura-de-repet.md
+    - 02_python-aula-17-estruturas-de-repeticao-func.md
+    - 03_python-aula-18-estrutura-de-repeticao-programand.md
+    - 04_python-aula-19-estrutura-de-repetic.md
+    - 05_python-aula-20-estrutura-de-repeticao-programando-.md
+    - 06_python-aula-21-estrutura-de-repeticao-break-e-.md
+    - 07_python-aula-22-estrutura-de-repeticao-programando-um-laco-c.md

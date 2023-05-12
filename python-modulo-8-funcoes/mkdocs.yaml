@@ -1,0 +1,15 @@
+site_name: "Python - Módulo 8: Funções"
+
+theme: readthedocs
+
+nav:
+    - index.md
+    - 01_python-aula-49-como-declarar-um.md
+    - 02_python-aula-50-como-retornar-valores-em-um.md
+    - 03_python-aula-51-o-que-e-escopo-de-.md
+    - 04_python-aula-52-como-usar-argumentos-em.md
+    - 05_python-aula-53-ordem-dos-argumentos-de-um.md
+    - 06_python-aula-54-como-usar-funcoes-com-parametros.md
+    - 07_python-aula-55-como-documentar-um-funca.md
+    - 08_python-aula-56-funcao-calcula-d.md
+    - 09_python-aula-57-funcao-gera-matriz-a.md

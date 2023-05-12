@@ -1,0 +1,10 @@
+site_name: "Python - Módulo 3: Estruturas Condicionais"
+
+theme: readthedocs
+
+nav:
+    - index.md
+    - 01_python-aula-12-estruturas-condicionais-simples-e-composta.md
+    - 02_python-aula-13-estrutura-condicional-encade.md
+    - 03_python-aula-14-estruturas-condicionais-exercicio-.md
+    - 04_python-aula-15-estruturas-condicionais-exercicio-.md

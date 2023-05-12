@@ -1,0 +1,17 @@
+site_name: "Python - Módulo 5: Listas"
+
+theme: readthedocs
+
+nav:
+    - index.md
+    - 01_python-aula-23-listas-vetores-e.md
+    - 02_python-aula-24-como-criar-uma-lista-acessar-e-modificar-e.md
+    - 03_python-aula-25-como-incluir-elementos-em-uma-list.md
+    - 04_python-aula-26-como-ordenar-e-embaralhar-elementos-de-u.md
+    - 05_python-aula-27-como-contar-a-quantidade-de-elementos-de-u.md
+    - 06_python-aula-28-como-calcular-a-soma-e-media-de-u.md
+    - 07_python-aula-29-como-apagar-elementos-de-u.md
+    - 08_python-aula-30-como-verificar-se-um-elemento-esta-.md
+    - 09_python-aula-31-como-localizar-o-indice-de-um-elemento-.md
+    - 10_python-aula-32-obtendo-indices-e-elementos-de-uma-lista-como-e.md
+    - 11_python-aula-33-resolucao-de-questoes-sobr.md

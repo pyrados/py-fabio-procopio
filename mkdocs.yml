@@ -1,0 +1,7 @@
+site_name: Python com Fábio Procópio
+
+theme:
+  name: readthedocs
+
+nav:
+  - index.md

@@ -1,0 +1,11 @@
+site_name: "Python - Módulo 6: Matrizes"
+
+theme: readthedocs
+
+nav:
+    - index.md
+    - 01_python-aula-34-introducao-a-matrizes-e.md
+    - 02_python-aula-35-como-criar-uma-matriz-e.md
+    - 03_python-aula-36-matriz-aleatoria-e.md
+    - 04_python-aula-37-como-imprimir-uma-matriz-formatada-e.md
+    - 05_python-aula-38-manipulacao-da-diagonal-principal-e-da-secundaria-e.md

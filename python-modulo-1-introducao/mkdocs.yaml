@@ -1,0 +1,13 @@
+site_name: "Python - Módulo 1: Introdução"
+
+theme: readthedocs
+
+nav:
+    - index.md
+    - 01_python-aula-01-como-instalar-python-no.md
+    - 02_python-aula-02-como-declarar-uma-variavel-e.md
+    - 03_python-aula-03-comentarios-e.md
+    - 04_python-aula-04-tipos-de-dados-primitivos-e.md
+    - 05_python-aula-05-informando-dados-com-a-func.md
+    - 06_python-aula-06-como-fazer-conversao-de-dados-e.md
+    - 07_python-aula-07-exercicios-de-fixacao-in.md
