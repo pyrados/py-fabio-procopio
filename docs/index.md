@@ -1,6 +1,6 @@
 # Python com Fábio Protópio
 
-- [Python - Módulo 1: Introdução/](python-modulo-1-introducao/)
+- [Python - Módulo 1: Introdução](python-modulo-1-introducao/)
 - [Python - Módulo 2: Operadores](python-modulo-2-operadores/)
 - [Python - Módulo 3: Estruturas Condicionais](python-modulo-3-estruturas-condicionais/)
 - [Python - Módulo 4: Estruturas de Repetição](python-modulo-4-estruturas-de-repeticao/)
